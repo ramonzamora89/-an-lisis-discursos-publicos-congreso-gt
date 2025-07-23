@@ -16,7 +16,7 @@ Este proyecto es de carácter no comercial y tiene fines exclusivamente periodí
 
 ## 🔒 Política de privacidad
 
-Consulta la [Política de Privacidad](./politica-de-privacidad.md) para más información sobre el manejo de los datos.
+Consulta la [Política de Privacidad]([./politica-de-privacidad.md](https://github.com/ramonzamora89/-an-lisis-discursos-publicos-congreso-gt/blob/7baf7c23314ae6f998e3f795dd8f23708bd4b8bb/politica-de-privacidad)) para más información sobre el manejo de los datos.
 
 ## 📬 Contacto
 

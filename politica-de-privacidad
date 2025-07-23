@@ -1,0 +1,66 @@
+# Política de Privacidad
+
+Última actualización: [2025-07-22]
+
+Esta política de privacidad describe cómo se recopilan, utilizan y protegen los datos a través de la aplicación desarrollada en el marco de una investigación periodística sobre la comunicación pública de los diputados del Congreso de Guatemala en redes sociales. Esta aplicación consulta datos exclusivamente públicos disponibles en la plataforma Facebook mediante la Graph API.
+
+## 1. Finalidad de la aplicación
+
+El objetivo principal de esta aplicación es analizar cómo los diputados y otras figuras públicas comunican en sus cuentas oficiales temas relacionados con **políticas públicas en trabajo, innovación, industria y tecnología**.
+
+Este análisis busca contribuir al fortalecimiento del debate democrático mediante una evaluación sistemática de los discursos públicos disponibles en canales oficiales.
+
+## 2. Datos que se recopilan
+
+La aplicación **solo accede a información pública** disponible a través de la Graph API de Facebook, incluyendo:
+
+- Publicaciones (posts) de páginas públicas de Facebook
+- Fechas de publicación
+- Contenido textual de las publicaciones
+- Enlace público a cada publicación
+
+No se recolectan ni se accede a los siguientes datos:
+
+- Información de cuentas personales o privadas
+- Datos sensibles o identificables de usuarios
+- Comentarios, mensajes privados ni interacciones no públicas
+
+## 3. Fuente de los datos
+
+Los datos recopilados provienen de las **páginas públicas** administradas por diputados y entidades oficiales del Congreso de Guatemala. Solo se recolecta información disponible sin autenticación adicional ni acceso privilegiado.
+
+El acceso se realiza a través de tokens generados de conformidad con las políticas para desarrolladores de Meta/Facebook.
+
+## 4. Uso de los datos
+
+Los datos recolectados se utilizan exclusivamente con fines periodísticos y académicos, incluyendo:
+
+- Análisis de contenido público
+- Identificación de narrativas y temas recurrentes
+- Visualización de patrones de comunicación política
+
+Los datos **no serán utilizados con fines comerciales**, ni serán compartidos con terceros ajenos al proyecto de investigación.
+
+## 5. Almacenamiento y protección de los datos
+
+Los datos se almacenan temporalmente en entornos locales o en servidores privados seguros, únicamente por el tiempo necesario para su análisis. No se mantiene una base de datos permanente ni se realizan respaldos masivos de contenido.
+
+Se toman medidas razonables para proteger la integridad de la información recolectada, aunque se trata de información pública accesible por cualquier usuario de la plataforma.
+
+## 6. Cumplimiento con políticas de Meta/Facebook
+
+La aplicación se desarrolla respetando las políticas de la plataforma Facebook, en particular aquellas relacionadas con el uso de su Graph API, acceso a contenido público, y protección de datos personales.
+
+Si Meta/Facebook solicita el cese del acceso o determina que hay una violación a sus términos, se suspenderá inmediatamente el uso de la aplicación.
+
+## 7. Contacto
+
+Si tienes preguntas sobre esta política o deseas conocer más sobre la investigación:
+
+**Correo electrónico:** [tu_correo@ejemplo.com]  
+**Responsable del proyecto:** Ramón Zamora  
+**Ubicación:** Miami, FL – Guatemala
+
+---
+
+_Esta política podrá actualizarse ocasionalmente para reflejar cambios en el alcance del proyecto o en los requisitos de la plataforma._
